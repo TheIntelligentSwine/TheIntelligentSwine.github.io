@@ -1,0 +1,24 @@
+---
+title: Fourth update
+date: "2023-01-16"
+---
+### Theme Update
+###### I have changed the theme of the cookie clicker to money. The game will now be about gaining as much money as possible
+##### The changes introduced with this update:
+    - Renamned "The Cookie Clicking" tab to "The Money Making"
+    - Replaced the pixelated cookie texture with a money pile texture
+    - Added a dollar sign before the ammount of money
+    - Changed the colour of the text in the button.
+    - Replaced Quadrupler with "5% increase"
+        - Instead of multiplying the money per click by 4, it will only multiply it by 1.05. Due to this change,
+        the price has been dropped from 5000 to 100
+            -(Note that this change is prone to changing, due to a bug showing a large ammount of decimals as the value.)
+    - Renamed "Loyal Servants" to "Printer"
+    - The "insufficient cookie" prompt has changed to "Insufficient money! Earn more!"
+    - Added "$" beside the money counter in order to represent money
+    - The counter will now always show the first two decimals.
+        - This was to prevent a bug causing an infinite ammount of decimals to take up the counter's surface.
+# Thank you for reading!
+###### -Emanuel
+
+    

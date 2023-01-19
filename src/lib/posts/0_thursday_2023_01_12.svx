@@ -1,0 +1,12 @@
+---
+title: First Update
+date: "2023-01-12"
+---
+### The First Change
+###### I have finally modded the code and changed a few things in the game
+    - Replaced Doubler with Quadrupler
+        - Quadrupler cost: 25000
+    - Renamed Workers to Loyal Servants
+        - Loyal Servants cost: 5000
+    - Changed start cookie value from 100 to 0
+##### The Quardupler will multiply the amount of cookies gained by 4. The Loyal Servants are just

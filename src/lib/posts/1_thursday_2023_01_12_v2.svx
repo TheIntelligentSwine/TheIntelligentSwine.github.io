@@ -1,0 +1,10 @@
+---
+title: Second Update (The Easy Update)
+date: "2023-01-12"
+---
+### Decreasing the prices
+###### I have decreased the prices of the upgrades:
+    - Quadrupler cost: 25000 >> 5000
+    - Loyal Servants cost: 5000 >> 250
+###### The Loyal Servants will now click every time FIVE seconds pass.
+    

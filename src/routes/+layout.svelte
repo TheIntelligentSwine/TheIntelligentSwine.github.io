@@ -15,8 +15,8 @@
 
 <nav>
   <ul>
-    <li><a href="/">Hem</a></li>
-    <li><a href="/devblog">Blog</a></li>
+    <li><a href="/">-|The Money Making|-</a></li>
+    <li><a href="/devblog">-|Blog & Updates|-</a></li>
   </ul>
 </nav>
 

@@ -1,0 +1,7 @@
+---
+title: Third update
+date: "2023-01-16"
+---
+### Blog update
+###### I have rewritten parts of the blog to be clearer.
+    

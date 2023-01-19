@@ -1,0 +1,16 @@
+---
+title: Fifth (maybe final) update
+date: "2023-01-19"
+---
+### Polishing Update
+###### I have fixed some bugs and added some effect
+##### The changes introduced with this update:
+    - A GIF background has been added, showing stocks
+    - Replaced the upgrade's background to a storage room.
+    - Fixed the price display. It used to show an incorrect price and the actual price wouldn't actually change
+
+#### This may be the last update for a long while...
+# Thank you for reading!
+###### -Emanuel
+
+    
